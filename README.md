@@ -1,8 +1,4 @@
 REDBUS CLONE 
-
-By
-ANISH SUMAN
-
 ## Abstract
 The Redbus Clone with AI project represents a sophisticated bus booking platform that leverages React, modern JavaScript, and artificial intelligence to create real time bus tickes base on any city name. Built with a focus on scalability and user experience, the platform integrates the Groq SDK for AI-powered route generation, providing realistic bus schedules and dynamic pricing. The project demonstrates the practical application of AI in travel booking systems while maintaining high performance and reliability standards.
 
